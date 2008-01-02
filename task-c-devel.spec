@@ -31,6 +31,7 @@ Requires: ncurses-devel
 Requires: patch
 Requires: texinfo
 BuildArch: noarch
+BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This package is a meta-package, meaning that its purpose is to contain
