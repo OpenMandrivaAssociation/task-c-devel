@@ -5,7 +5,7 @@
 
 Name: task-c-devel
 Version: 2007
-Release: %mkrel 1
+Release: %mkrel 3
 License: GPL
 Summary: Metapackage for C development
 Summary(pt_BR): Metapacote para desenvolvimento em C
