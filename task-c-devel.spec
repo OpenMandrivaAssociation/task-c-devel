@@ -4,8 +4,8 @@
 # COMMITTING YOUR CHANGES FIRST
 
 Name: task-c-devel
-Version: 2009.0
-Release: %mkrel 4
+Version: 2011.0
+Release: %mkrel 1
 License: GPL
 Summary: Metapackage for C development
 Summary(pt_BR): Metapacote para desenvolvimento em C
