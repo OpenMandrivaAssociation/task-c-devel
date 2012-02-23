@@ -1,10 +1,5 @@
-
-# THIS PACKAGE IS STORED IN SVN
-# PLEASE DO NOT UPLOAD WITHOUT
-# COMMITTING YOUR CHANGES FIRST
-
 Name: task-c-devel
-Version: 2011.0
+Version: 2012.0
 Release: %mkrel 1
 License: GPL
 Summary: Metapackage for C development
@@ -24,7 +19,7 @@ Requires: glib2-devel
 Requires: glibc-devel
 Requires: libslang-devel
 Requires: libtool
-Requires: libz-devel
+Requires: zlib-devel
 Requires: m4
 Requires: make
 Requires: ncurses-devel
@@ -40,14 +35,10 @@ the C programming language.
 It itself includes no software, only dependencies on software.
 
 %description -l pt_BR
-Este pacote é um metapacote, ou seja, o seu único propósito é conter
-dependências para um completo ambiente de desenvolvimento de programas em C.
+Este pacote Ã© um metapacote, ou seja, o seu Ãºnico propÃ³sito Ã© conter
+dependÃªncias para um completo ambiente de desenvolvimento de programas em C.
 
-Este pacote não inclui nenhum programa, apenas dependências para outros
+Este pacote nÃ£o inclui nenhum programa, apenas dependÃªncias para outros
 programas.
 
 %files
-%defattr(0644,root,root,0755)
-
-
-
