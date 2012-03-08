@@ -1,6 +1,6 @@
 Name: task-c-devel
 Version: 2012.0
-Release: %mkrel 1
+Release: %mkrel 2
 License: GPL
 Summary: Metapackage for C development
 Summary(pt_BR): Metapacote para desenvolvimento em C
@@ -17,7 +17,7 @@ Requires: flex
 Requires: gcc
 Requires: glib2-devel
 Requires: glibc-devel
-Requires: libslang-devel
+Requires: slang-devel
 Requires: libtool
 Requires: zlib-devel
 Requires: m4
