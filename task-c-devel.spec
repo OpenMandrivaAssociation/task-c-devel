@@ -1,5 +1,5 @@
 Name: task-c-devel
-Version: 2013.0
+Version: %distro_release
 Release: 0.1
 License: GPL
 Summary: Metapackage for C development
