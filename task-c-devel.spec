@@ -1,6 +1,6 @@
 Name: task-c-devel
 Version: %distro_release
-Release: 0.5
+Release: 0.6
 License: GPL
 Summary: Metapackage for C development
 Summary(pt_BR): Metapacote para desenvolvimento em C
