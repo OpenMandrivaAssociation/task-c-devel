@@ -1,6 +1,6 @@
 Name: task-c-devel
 Version: 2015.0
-Release: 0.12
+Release: 0.13
 License: GPL
 Summary: Metapackage for C development
 Summary(pt_BR): Metapacote para desenvolvimento em C
@@ -15,6 +15,7 @@ Requires: ctags
 Requires: diffutils
 Requires: flex
 Requires: gcc
+Requires: clang
 Requires: pkgconfig(glib-2.0)
 Requires: glibc-devel
 Requires: pkgconfig(slang)
